@@ -1,0 +1,20 @@
+{
+  "host": "scanme.nmap.org",
+  "ip": "45.33.32.156",
+  "scanned_at": "2026-04-29T10:48:44.773853",
+  "elapsed_s": 0.88,
+  "open_ports": [
+    {
+      "port": 22,
+      "state": "open",
+      "service": "SSH",
+      "banner": "SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13"
+    },
+    {
+      "port": 80,
+      "state": "open",
+      "service": "HTTP",
+      "banner": "HTTP/1.1 200 OK"
+    }
+  ]
+}
